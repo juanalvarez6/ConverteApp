@@ -1,10 +1,10 @@
 # ConverteApp
 
-## **Clases**
-
 El siguiente programa es un convertidor de moneda, en el cual tenemos seis opciones para escoger.
 
 El programa obtiene la tasa de cambio desde la API [ExchangeRate-API](https://www.exchangerate-api.com/).
+
+## **Clases**
 
 ### **ConverterData**
 
